@@ -60,7 +60,7 @@ git pull origin master
 5. Wenn fertig: Datei speichern
 6. In Git Bash folgende Befehle ausführen:
 ```
- git add .
+ git add cubeChecker.io
  git commit -m "Änderungen hierhin schreiben"
  git pull origin master
 ```
